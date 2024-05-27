@@ -6,6 +6,8 @@ A pretty GUI based tool useful for enlarging pixel-art graphics
 A graphical filter that makes an attept to enhance the apperence of a 2D pixel art graphic.
 The algorithms are designed to perform image enhancement. 
 
+[Source](https://en.wikipedia.org/wiki/Pixel-art_scaling_algorithms)
+
 ## Challenge:
 ### Create a pretty tool for enhancing pixel art images.
 - Design tool in Figma
